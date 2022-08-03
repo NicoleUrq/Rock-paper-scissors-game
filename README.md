@@ -1,2 +1,2 @@
-# Rock-paper-scissors-game
-Playing rock, paper, scissors against the computer
+# Rock-Paper-pcissors-Game
+Playing rock, paper, scissors against the computer.
